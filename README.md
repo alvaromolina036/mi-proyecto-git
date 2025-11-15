@@ -1,1 +1,1 @@
-Esto es un archivo README de la practica de GitHub de Alvaro Molina Mateo
+Esto es un archivo README de la practica de Git
